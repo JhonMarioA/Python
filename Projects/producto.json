@@ -1,0 +1,9 @@
+{
+   "nombre": "Celular",
+   "precio": 1000000,
+   "caracteristicas": [
+      "8GB RAM",
+      "12MPX"
+   ],
+   "en_stock": true
+}
